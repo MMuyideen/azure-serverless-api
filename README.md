@@ -2,6 +2,8 @@
 
 This repository contains an Azure Functions Python app and Terraform infrastructure code to deploy it.
 
+![Arch Diagram](./Arch-diagram.png)
+
 ## Repository structure
 
 - `Python function/`
