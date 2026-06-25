@@ -1,0 +1,8 @@
+location="eastus"
+rg-name="prj-backend-demo"
+fn_storage_account_name="prjfnstorageaccountdemo"
+fn_app_service_plan_name="prj-fn-app-service-plan"
+function_app_name="prj-func-app100"
+apim_name="prj-backend-apim"
+function_name="httpbin"
+environment="dev"
